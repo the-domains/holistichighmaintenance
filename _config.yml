@@ -1,0 +1,28 @@
+name: HolisticHighMaintenance
+favicon: null
+layout_spectrum: 0.7136143071111292
+typography_spectrum: 0.9040183851029724
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.11811541044153273
+  lightness: 0.3486815872602165
+  saturation: 0.4367975704371929
+  rhythmicContrast: 0.4300002492964268
+purpose: []
