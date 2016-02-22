@@ -4,7 +4,7 @@
         <description><![CDATA[HolisticHighMaintenance]]></description>
         <link>https://thegrid.ai/holistichighmaintenance/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 00:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 00:24:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/holistichighmaintenance/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,13 +33,6 @@
             <link>https://thegrid.ai/holistichighmaintenance/2be391a8-5d9c-4496-a5a7-0fbe9919a48f/index.html</link>
             <guid isPermaLink="false">2be391a8-5d9c-4496-a5a7-0fbe9919a48f</guid>
             <pubDate>Mon, 22 Feb 2016 00:04:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54f4adf9-748b-4064-815e-2a7e07092af8.jpg">]]></description>
-            <link>https://thegrid.ai/holistichighmaintenance/52e1e6e7-35c4-4ad7-82eb-b5fbec2b8eaf/index.html</link>
-            <guid isPermaLink="false">52e1e6e7-35c4-4ad7-82eb-b5fbec2b8eaf</guid>
-            <pubDate>Mon, 22 Feb 2016 00:03:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
